@@ -13,7 +13,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_margin="24dp"
         android:layout_weight="1"
-        android:text="Scheme-Raki" />
+        android:text="Scheme-Raki-2" />
 
     <Button
         android:layout_width="match_parent"
