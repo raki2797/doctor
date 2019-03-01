@@ -15,14 +15,12 @@
         android:layout_weight="1"
         android:text="saddddy 2703 vit" />
 
-    <Button
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center_horizontal"
-        android:layout_marginLeft="24dp"
-        android:layout_marginRight="24dp"
-        android:layout_weight="1"
-        android:text="Raki 2702 vit" />
+   <TextView
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:textSize="30dp"
+       android:text="textview"/>
+
 
     <Button
         android:layout_width="match_parent"
